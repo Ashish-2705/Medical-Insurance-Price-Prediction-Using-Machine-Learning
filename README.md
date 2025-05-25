@@ -18,6 +18,6 @@ a. The charges are higher for Males as compared to Females, but the difference i
 b. The charges are nearly uniform across the four specified Regions.</br>
 c. **<i>The premium imposed on Smokers is thrice than that for non-smokers.</i>**</br>
 
-![image](https://github.com/user-attachments/assets/d08b5ba2-10c2-4673-a93c-5f0e503658f8)
+<h4>**Figure 3. Categorical Data Distribution of Charges**</h4>
 
-Figure 3. Categorical Data Distribution of Charges 
+![image](https://github.com/user-attachments/assets/d08b5ba2-10c2-4673-a93c-5f0e503658f8)
