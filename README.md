@@ -15,12 +15,13 @@ The primary objective of this project is to develop an accurate, efficient, and 
 
 ## Conclusion :
 
-**The following are some conclusions that can be drawn from the graphs as mentioned in Figure 3:**</br>
+**The following are some conclusions that can be drawn from the graphs as mentioned in Figure 3:** </br>
 
 a. The charges are higher for Males as compared to Females, but the difference is not much. Hence, we can say approximate equal charges for both the genders.</br>
 b. The charges are nearly uniform across the four specified Regions.</br>
 c. **<i>The premium imposed on Smokers is thrice than that for non-smokers.</i>**</br>
 
+<style>h4{text-align: center;}</style>
 <h4>Figure 3. Categorical Data Distribution of Charges</h4>
 
 ![image](https://github.com/user-attachments/assets/d08b5ba2-10c2-4673-a93c-5f0e503658f8)
