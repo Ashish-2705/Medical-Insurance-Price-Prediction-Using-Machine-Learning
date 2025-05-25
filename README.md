@@ -12,3 +12,12 @@ The primary objective of this project is to develop an accurate, efficient, and 
 **Smoker** - Smoking status of the customer</br>
 **Region** - Geographic region of the customer</br>
 **Charges** - Medical insurance premium charged to the customer</br>
+
+The following are some conclusions that can be drawn from the graphs as mentioned in Figure 3:
+•	The charges are higher for Males as compared to Females, but the difference is not much. Hence, we can say approximate equal charges for both the genders.
+•	The charges are nearly uniform across the four specified Regions.
+•	**<i>The premium imposed on Smokers is thrice than that for non-smokers.</i>**
+
+![image](https://github.com/user-attachments/assets/d08b5ba2-10c2-4673-a93c-5f0e503658f8)
+
+Figure 3. Categorical Data Distribution of Charges 
