@@ -1,7 +1,10 @@
 ![1_tTmC-u3etOl4TLuGHleNcw](https://github.com/user-attachments/assets/f9768157-dcc7-4cfe-8fb8-33641a2c6a94)
 
 # Major Project on Medical Insurance Price Prediction Using Machine Learning
-The primary objective of this project is to develop an accurate, efficient, and data-driven model that can predict medical insurance premiums based on various personal, health, and lifestyle factors. 
+
+The primary objective of this project is to develop an accurate, efficient, and data-driven model that can predict medical insurance premiums based on various personal, health, and lifestyle factors. The project follows a structured approach to developing an accurate and efficient machine learning model for predicting medical insurance premiums. It involves data collection, preprocessing, model selection, evaluation, and deployment to ensure reliability and practical applicability.
+
+By leveraging historical data and advanced algorithms, ML models can identify key factors influencing insurance costs such as <i>**age, BMI, smoking status, medical history, and geographic location**</i>.
 
 ## Attribute Information :
 
@@ -21,7 +24,7 @@ a. The charges are higher for Males as compared to Females, but the difference i
 b. The charges are nearly uniform across the four specified Regions.</br>
 c. **<i>The premium imposed on Smokers is thrice than that for non-smokers.</i>**</br>
 
-<head><style>h4{text-align: center;}</style></head>
+
 <h4>Figure 3. Categorical Data Distribution of Charges</h4>
 
 ![image](https://github.com/user-attachments/assets/d08b5ba2-10c2-4673-a93c-5f0e503658f8)
