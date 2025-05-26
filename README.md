@@ -25,6 +25,6 @@ b. The charges are nearly uniform across the four specified Regions.</br>
 c. **<i>The premium imposed on Smokers is thrice than that for non-smokers.</i>**</br>
 
 
-<h4>Figure. Categorical Data Distribution of Charges</h4>
+<h4><u>Figure. Categorical Data Distribution of Charges</u></h4>
 
 ![image](https://github.com/user-attachments/assets/d08b5ba2-10c2-4673-a93c-5f0e503658f8)
